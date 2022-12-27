@@ -34,10 +34,10 @@
   background-color: white;
   border: solid;
   box-shadow: 5px 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+  margin-left: 10vw; 
+  margin-right: 10vw;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
@@ -45,7 +45,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  
+  width: 80vw;
   
 }
 
@@ -70,9 +70,10 @@ button{
   border:solid;
   box-shadow: 5px 10px; 
   gap:10px;
-  margin-top: 20px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+  margin-left: 10vw; 
+  margin-right: 10vw;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
@@ -80,14 +81,15 @@ button{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  
+  width: 80vw;
 }
 .generalFormx{
   background-color: white;
   gap:10px;
-  margin-top: 20px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+  margin-left: 10vw; 
+  margin-right: 10vw;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
@@ -95,13 +97,15 @@ button{
   flex-direction: column;
   justify-content: center;
   border:solid;
+  width: 60vw;
 }
 .col-1x, .col-2x, .col-3x, .col-4x {
   display:flex;
   gap:10px;
   margin:5px;
   padding:5px;
-  width: 500px;
+  width: 60vw;
+  
   padding-top: 10px;
 }
 .generalForm5{
@@ -109,10 +113,10 @@ button{
   
    
   gap:10px;
-
-  margin-top: 20px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+  margin-left: 10vw; 
+  margin-right: 10vw;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
@@ -127,7 +131,8 @@ button{
   gap:10px;
   margin:5px;
   padding:5px;
-  width: 500px;
+  width: 60vw;
+  
   padding-top:10px;
 }
 
